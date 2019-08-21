@@ -1,0 +1,65 @@
+
+#welcome{
+	background-image: url(../img/fo-sky.png);
+	background-size: cover;
+}
+
+.bg-log{
+	background-color:  #f8f9f9;
+}
+
+.bg-i{
+	background-color:  #eeeeee;
+}
+
+.card-head{
+    font-family: 'Arial';
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.m-btn{
+    margin-top: 50px;
+}
+
+.card-h{
+    height: 320px;
+}
+
+.post-slide{
+	position: relative;
+}
+
+.post-slide .next{
+	position: absolute;
+	top: 50%;
+	right: 30px;
+	font-size: 2rem;
+	cursor: pointer;
+}
+
+.post-slide .prev{
+	position: absolute;
+	top: 50%;
+	left: 30px;
+	font-size: 2rem;
+	cursor: pointer;
+}
+
+.post-slide .post-wrapper{
+	width: 90%;
+	height: 200px;
+	margin: 0px auto;
+	overflow: hidden;
+}
+
+.post-slide .post-wrapper .post{
+	width: 60px;
+	height: 150px;
+	margin: 0px 10px;
+	margin-bottom: 10px; 
+	display: inline-block;
+}
+
+
+/*//Slide style*/
